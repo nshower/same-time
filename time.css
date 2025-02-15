@@ -146,6 +146,9 @@ main {
 	text {
 		font-weight: bold;
 	}
+	textPath {
+		letter-spacing: 5.75px;
+	}
 }
 .clock-hand {
 	background-color: var(--color--5);
